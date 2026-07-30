@@ -1,3 +1,5 @@
-Kauê Orlandini\ 
+Kauê Orlandini\
+
 Renan Ribeiro Correia\
+
 Anthony Marlon\
