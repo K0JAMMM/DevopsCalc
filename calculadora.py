@@ -15,6 +15,6 @@ def calcular_total(itens, desconto_percentual=0):
 
     # Defeito proposital:
     # o desconto percentual esta sendo subtraido como valor monetario.
-    total = subtotal - desconto_percentual
+    total = subtotal * ( 1 - desconto_percentual)
 
     return round(total, 2)
