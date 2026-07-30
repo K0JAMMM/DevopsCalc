@@ -1,5 +1,5 @@
-Kauê Orlandini\
+Kauê Orlandini
 
-Renan Ribeiro Correia\
+Renan Ribeiro Correia
 
-Anthony Marlon\
+Anthony Marlon
