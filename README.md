@@ -1,3 +1,3 @@
-Kauê Orlandini 
-Renan Ribeiro Correia
-Anthony Marlon
+Kauê Orlandini\ 
+Renan Ribeiro Correia\
+Anthony Marlon\
